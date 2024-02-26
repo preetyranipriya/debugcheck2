@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ht.debugcheck2.Debugcheck2ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-26T15:51:20" hostname="BLR-96X2V93" time="0.902">
+  <properties/>
+  <testcase name="t2()" classname="com.ht.debugcheck2.Debugcheck2ApplicationTests" time="0.902"/>
+  <system-out><![CDATA[21:21:19.624 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.ht.debugcheck2.Debugcheck2ApplicationTests]: Debugcheck2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:21:19.735 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.ht.debugcheck2.Debugcheck2Application for test class com.ht.debugcheck2.Debugcheck2ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-02-26T21:21:20.194+05:30  INFO 11268 --- [    Test worker] c.h.d.Debugcheck2ApplicationTests        : Starting Debugcheck2ApplicationTests using Java 19.0.2 with PID 11268 (started by preety.priya in C:\Users\preety.priya\Downloads\debugcheck2-main\debugcheck2-main)
+2024-02-26T21:21:20.196+05:30  INFO 11268 --- [    Test worker] c.h.d.Debugcheck2ApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2024-02-26T21:21:20.833+05:30  INFO 11268 --- [    Test worker] c.h.d.Debugcheck2ApplicationTests        : Started Debugcheck2ApplicationTests in 0.892 seconds (process running for 2.478)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
